@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(251, 229, 237);
+}
+
+h2{
+    color:rgb(0, 0, 0);
+    font-family: "Crimson Text", serif;
+    font-weight: 700;
+    font-style: normal;
+    text-align: center;
+}
+
+.crimson-text-semibold {
+    font-family: "Crimson Text", serif;
+    font-weight: 600;
+    font-style: normal;
+  }
+  .links{
+    padding: 10px;
+    color:white;
+    
+  }
+  li{
+    display: inline;
+    padding: 0px 10px 0px 10px;
+  }
+
+  header{
+    text-align: center;
+    background-size: fill;
+    background: url('images/dogheader.jpg');
+    color: white;
+    background-position: 2000px;
+    margin: 40px 0px 0px 0px;
+    border-radius: 0px;
+  }
